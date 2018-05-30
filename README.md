@@ -1,2 +1,2 @@
-# Board-Game-Q
-Reinforcement Learning, Q Learning
+# Reinforcement Learning
+Board Game, Q Learning
