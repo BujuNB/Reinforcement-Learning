@@ -1,6 +1,6 @@
 # Reinforcement Learning
-Board Game, Q Learning
+Q Learning, Board Game
 
-Value Iteration
+Value Iteration, Grid Game
 
-Monte Carlo Policy Evaluation (MCPE)
+Monte Carlo Policy Evaluation (MCPE), Blackjack
